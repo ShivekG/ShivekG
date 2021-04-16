@@ -26,6 +26,15 @@ Assisting students with with any computer relatedissues.
 Maintenance of hardcopy records.
 Preparing Excel spreadsheets.
 
+PROFESSIONAL SKILLS:
+
+Java
+c++
+javascript
+python
+html5
+css
+
 SOFT SKILLS:
 
 Languages – Read, speak and write English and Afrikaans.
