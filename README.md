@@ -30,10 +30,12 @@ PROFESSIONAL SKILLS:
 
 Java
 c++
-javascript
+Spring
 python
 html5
 css
+SQL
+PostgreSQL
 
 SOFT SKILLS:
 
