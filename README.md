@@ -9,14 +9,6 @@ programmingtechnologies. My interests are Software Engineering, ArtificialIntell
 
 EXPERIENCE:
 
-December 2019 — January 2020(Vacation work)
-Filcon Schoolwear
-IT technician
-Basic website and hardware maintenance.
-Maintenance of local system software.
-Maintenance of hardcopy records.
-Preparing Excel spreadsheets.
-
 January 2021 — December 2021(Part time work)
 Student IT HUB at the University of Pretoria
 IT technician
